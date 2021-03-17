@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vince2312
+- 👀 I’m interested in Bouldering and Climbing.
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on VDI Hackathon 
